@@ -12,3 +12,20 @@
 
 + ``` git commit -m " ....message.... " ```
 > To commit changes in Git
+
++ ``` git clone "repository URL"```
+> To clone remote repository locally
+
++ ``` git push ```
+> To push changes to Github website repository
+
++ ``` git pull```
+> To pull changes from Github website repository
+
++ ``` git stash ```
+> To temporarily stash the local changes
+
++ ``` git stash pop ```
+> To unstash temporary stashed changes
+
++ ``` 
