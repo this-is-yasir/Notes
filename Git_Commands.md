@@ -28,4 +28,14 @@
 + ``` git stash pop ```
 > To unstash temporary stashed changes
 
-+ ``` 
++ ``` git branch ```
+> To view current branch 
+
++ ``` git branch -a ```
+> To view all branches
+
++ ``` git checkout "branch name" ```
+> To change to specified branch
+
++ ``` git merge "branch name" ```
+> To merge specified branch to current branch
